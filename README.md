@@ -6,7 +6,7 @@ Or, le stockage de ces données ne sont pas illimlités, car les serveurs ont un
 
 Pour répondre a ce problème les systèmes informatiques utilisent des algorithmes de compression.
 
-La problèmatique de ce TIPE est :
+# La problèmatique de ce TIPE est :
 
 **Comment réduire la taille des données tout en conservant l'information qu'elles contiennent ?**
 
