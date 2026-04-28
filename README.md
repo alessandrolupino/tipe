@@ -130,5 +130,3 @@ avec $\pi_1 = \frac{\alpha}{\alpha+\beta}$, $\pi_0 = \frac{\beta}{\alpha+\beta}$
 4. **Salomon, D.** (2007). *Data Compression: The Complete Reference*. Springer.
 
 ---
-
-*TIPE individuel — Filière MPI/MP — Année 2025-2026*
